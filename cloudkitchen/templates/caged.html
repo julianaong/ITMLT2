@@ -1,0 +1,109 @@
+<html>
+     {% include "header.html" %}
+<header>
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	
+<style>
+		body { 
+		background-color: #ece0d1;
+		color: #967259 ; 
+		}
+		a {
+			color: brown;
+			font-weight: bold;
+		}
+		.product-image {
+			height: 200px;
+		}
+	</style>
+</header>
+<body>
+	<h1 align="center">Caged Chicken</h1>
+	<center>
+		
+        <img src="/static/images/caged.png"/>
+        <div>
+        <img id="choices" src="static/images/breakfast.jpg" width="230" class="product-image">
+        <img id="choices" src="static/images/lunch.jpg" width="230" class="product-image">
+        </div>
+	</center>
+    <center>
+<table class="center" style="text-align: center">
+    <tr><th>Code</th><th>Name</th><th>Price</th></tr>
+    
+    {% for product in product_list %}
+    <form action="/addtocart" method="POST">
+	    <tr>
+	    	<td>
+	    		<a style=padding-top:0px; href="productdetails?code={{product["code"]}}">{{product["code"]}}
+	    		</a>
+	    	</td>
+	    	<td>{{product["name"]}}</td>
+	    	<td>{{product["price"]}}</td>
+	    	<!-- <td colspan="2"><input type="submit" name="Add to Cart" value="+"></input></td>
+	    	<td colspan="2"><input type="submit" name="Remove" value="-"></input></td> -->
+	    </tr>
+	</form>
+    {% endfor %}
+
+  </table>
+    </center>
+    <!--
+	<table align="center">
+		<tr>
+			<th>Mains:</th>
+		</tr>
+		<tr>
+			<th>Breakfast</th>
+		</tr>
+		<tr>
+			<td>P110</td>
+		</tr>
+		<tr>
+			<th>Lunch</th>
+		</tr>
+		<tr>
+			<td>P90</td>
+		</tr>
+		<tr>
+			<th>Peanut Butter & Jelly</th>
+		</tr>
+		<tr>
+			<td>P80</td>
+		</tr>
+		<tr>
+			<th>Strawberry</th>
+		</tr>
+		<tr>
+			<td>P80</td>
+		</tr>
+		<tr>
+			<th>Banana Hazelnut</th>
+		</tr>
+		<tr>
+			<td>P90</td>
+		</tr>
+		<tr>
+			<th>Chicken Bites</th>
+		</tr>
+		<tr>
+			<td>P80</td>
+		</tr>	
+		<tr>
+			<th>Sides:</th>
+		</tr>
+		<tr>
+			<th>Twister Fries</th>
+		</tr>
+		<tr>
+			<td>P70</td>
+		</tr>
+	</table>
+-->
+    
+	<div style="text-align: center">
+		<a href="/branches">Back</a>
+	</div>
+    {% include "footer.html" %}
+</body>
+</html>

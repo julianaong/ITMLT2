@@ -1,0 +1,17 @@
+{"_id":{"$oid":"5dd167b82ada8449bf764774"},"username":"chums@example.com","password":"123","first_name":"Matthew","last_name":"Uy"}
+{"_id":{"$oid":"5dd167b82ada8449bf764775"},"username":"joben@example.com","password":"Ch@ng3m3!","first_name":"Joben","last_name":"Ilagan"}
+{"_id":{"$oid":"5dd167c52ada8449bf764776"},"username":"bong@example.com","password":"Ch@ng3m3!","first_name":"Bong","last_name":"Olpoc"}
+{"_id":{"$oid":"5dd167c52ada8449bf764777"},"username":"joaqs@example.com","password":"Ch@ng3m3!","first_name":"Joaqs","last_name":"Gonzales"}
+{"_id":{"$oid":"5dd167d72ada8449bf764778"},"username":"gihoe@example.com","password":"Ch@ng3m3!","first_name":"Gio","last_name":"Hernandez"}
+{"_id":{"$oid":"5dd167d72ada8449bf764779"},"username":"vic@example.com","password":"Ch@ng3m3!","first_name":"Vic","last_name":"Reventar"}
+{"_id":{"$oid":"5dd168212ada8449bf76477a"},"username":"joe@example.com","password":"Ch@ng3m3!","first_name":"Joe","last_name":"Ilagan"}
+{"_id":{"$oid":"5dd168212ada8449bf76477b"},"username":"eb@example.com","password":"Ch@ng3m3!","first_name":"EB","last_name":"Ilagan"}
+{"_id":{"$oid":"5ddd31ee60d42349cd180e9b"},"first_name":"Rodrigo","last_name":"Duterte","city":"Manila","points":1000.0}
+{"_id":{"$oid":"5ddd31fd60d42349cd180e9c"},"username":"chums@example.com","password":"Ch@ng3m3!","first_name":"Matthew","last_name":"Uy"}
+{"_id":{"$oid":"5ddd31fd60d42349cd180e9d"},"username":"joben@example.com","password":"Ch@ng3m3!","first_name":"Joben","last_name":"Ilagan"}
+{"_id":{"$oid":"5ddd322060d42349cd180e9e"},"username":"bong@example.com","password":"Ch@ng3m3!","first_name":"Bong","last_name":"Olpoc"}
+{"_id":{"$oid":"5ddd322060d42349cd180e9f"},"username":"joaqs@example.com","password":"Ch@ng3m3!","first_name":"Joaqs","last_name":"Gonzales"}
+{"_id":{"$oid":"5ddd323160d42349cd180ea0"},"username":"gihoe@example.com","password":"Ch@ng3m3!","first_name":"Gio","last_name":"Hernandez"}
+{"_id":{"$oid":"5ddd323160d42349cd180ea1"},"username":"vic@example.com","password":"Ch@ng3m3!","first_name":"Vic","last_name":"Reventar"}
+{"_id":{"$oid":"5ddd323a60d42349cd180ea2"},"username":"joe@example.com","password":"Ch@ng3m3!","first_name":"Joe","last_name":"Ilagan"}
+{"_id":{"$oid":"5ddd323a60d42349cd180ea3"},"username":"eb@example.com","password":"Ch@ng3m3!","first_name":"EB","last_name":"Ilagan"}

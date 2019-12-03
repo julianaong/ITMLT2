@@ -1,0 +1,26 @@
+{"_id":{"$oid":"5de4e6e6c16e24c17dbcf98e"},"code":100,"stallid":"Big Fat Rolls","name":"Beef Bulgogi","price":100.0}
+{"_id":{"$oid":"5de4e6e6c16e24c17dbcf98f"},"code":200,"stallid":"Big Fat Rolls","name":"Kani Mango Crunch","price":100.0}
+{"_id":{"$oid":"5de4e6e6c16e24c17dbcf990"},"code":300,"stallid":"Big Fat Rolls","name":"Chicken Teriyaki","price":100.0}
+{"_id":{"$oid":"5de4e6e6c16e24c17dbcf991"},"code":400,"stallid":"Big Fat Rolls","name":"Teriyaki Karaage","price":70.0}
+{"_id":{"$oid":"5de4e6e6c16e24c17dbcf992"},"code":500,"stallid":"Big Fat Rolls","name":"Umami Fries","price":40.0}
+{"_id":{"$oid":"5de4e6e6c16e24c17dbcf993"},"code":600,"stallid":"Big Fat Rolls","name":"Karaage + Fries","price":80.0}
+{"_id":{"$oid":"5de4e6ecc16e24c17dbcf994"},"code":700,"stallid":"Big Fat Rolls","name":"Red Ice tea","price":30.0}
+{"_id":{"$oid":"5de4e6ecc16e24c17dbcf995"},"code":800,"stallid":"Big Fat Rolls","name":"Black Gulaman","price":30.0}
+{"_id":{"$oid":"5de4e6f1c16e24c17dbcf996"},"code":900,"stallid":"Caged Chicken","name":"Breakfast","price":110.0}
+{"_id":{"$oid":"5de4e6f1c16e24c17dbcf997"},"code":1000,"stallid":"Caged Chicken","name":"Lunch","price":90.0}
+{"_id":{"$oid":"5de4e6f1c16e24c17dbcf998"},"code":2000,"stallid":"Caged Chicken","name":"Peanut Butter + Jelly","price":80.0}
+{"_id":{"$oid":"5de4e6f1c16e24c17dbcf999"},"code":3000,"stallid":"Caged Chicken","name":"Strawberry","price":80.0}
+{"_id":{"$oid":"5de4e6f5c16e24c17dbcf99a"},"code":4000,"stallid":"Caged Chicken","name":"Banana Hazelnut","price":90.0}
+{"_id":{"$oid":"5de4e6f5c16e24c17dbcf99b"},"code":5000,"stallid":"Caged Chicken","name":"Chicken Bites","price":80.0}
+{"_id":{"$oid":"5de4e6f5c16e24c17dbcf99c"},"code":6000,"stallid":"Caged Chicken","name":"Twister Fries","price":70.0}
+{"_id":{"$oid":"5de4e6fbc16e24c17dbcf99d"},"code":7000,"stallid":"Taverna","name":"Beef Gyro","price":100.0}
+{"_id":{"$oid":"5de4e6fbc16e24c17dbcf99e"},"code":8000,"stallid":"Taverna","name":"Chicken Gyro","price":90.0}
+{"_id":{"$oid":"5de4e6fbc16e24c17dbcf99f"},"code":9000,"stallid":"Taverna","name":"Greek Chicken Bites + Fries","price":80.0}
+{"_id":{"$oid":"5de4e700c16e24c17dbcf9a0"},"code":10000,"stallid":"Taverna","name":"Greek Chicken Bites + Rice","price":90.0}
+{"_id":{"$oid":"5de4e705c16e24c17dbcf9a1"},"code":20000,"stallid":"Taverna","name":"Naked Chicken Gyro","price":100.0}
+{"_id":{"$oid":"5de4e705c16e24c17dbcf9a2"},"code":30000,"stallid":"Taverna","name":"Naked Beef Gyro","price":110.0}
+{"_id":{"$oid":"5de4e705c16e24c17dbcf9a3"},"code":40000,"stallid":"Taverna","name":"Pita + Hummus","price":50.0}
+{"_id":{"$oid":"5de4e705c16e24c17dbcf9a4"},"code":50000,"stallid":"Taverna","name":"Greek Garlic Potatoes","price":50.0}
+{"_id":{"$oid":"5de4e705c16e24c17dbcf9a5"},"code":60000,"stallid":"Taverna","name":"Water","price":15.0}
+{"_id":{"$oid":"5de4e705c16e24c17dbcf9a6"},"code":70000,"stallid":"Taverna","name":"Ice Tea","price":25.0}
+{"_id":{"$oid":"5de4e709c16e24c17dbcf9a7"},"code":80000,"stallid":"Taverna","name":"Soda","price":40.0}

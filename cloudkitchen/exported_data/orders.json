@@ -1,0 +1,20 @@
+{"_id":{"$oid":"5ddd3d79bb4dd44730cc1854"},"username":"chums@example.com","orderdate":{"$date":"2019-11-26T14:58:01.498Z"},"details":[{"code":"100","name":"Americano","qty":10,"subtotal":1500.0}]}
+{"_id":{"$oid":"5ddd4903a3ab983fb72d509d"},"username":"chums@example.com","orderdate":{"$date":"2019-11-26T15:47:15.053Z"},"details":[{"code":"100","name":"Americano","qty":1,"subtotal":150.0}]}
+{"_id":{"$oid":"5ddd4cfca3ab983fb72d509e"},"username":"chums@example.com","orderdate":{"$date":"2019-11-26T16:04:12.55Z"},"details":[{"code":"300","name":"Cappuccino","qty":2,"subtotal":288.0}]}
+{"_id":{"$oid":"5ddd561ab212f286d44e2cca"},"username":"chums@example.com","orderdate":{"$date":"2019-11-26T16:43:06.156Z"},"details":[{"code":"100","name":"Americano","qty":6,"subtotal":900.0}]}
+{"_id":{"$oid":"5ddd5c0bb212f286d44e2ccb"},"username":"chums@example.com","orderdate":{"$date":"2019-11-26T17:08:27.548Z"},"details":[{"code":"600","name":"Cold Brew","qty":1,"subtotal":240.0}]}
+{"_id":{"$oid":"5dde059ab212f286d44e2ccc"},"username":"chums@example.com","orderdate":{"$date":"2019-11-27T05:11:54.303Z"},"details":[{"code":"200","name":"Brewed Coffee","qty":10,"subtotal":1320.0}]}
+{"_id":{"$oid":"5dde6fd783ec773511ec6c23"},"username":"chums@example.com","orderdate":{"$date":"2019-11-27T12:45:11.544Z"},"details":[{"code":"100","name":"Americano","qty":100,"subtotal":15000.0}]}
+{"_id":{"$oid":"5dde73cd947c2cde02d0acbb"},"username":"chums@example.com","orderdate":{"$date":"2019-11-27T13:02:05.485Z"},"details":[{"code":"100","name":"Americano","qty":121231231,"subtotal":1.818468465E+10}]}
+{"_id":{"$oid":"5de2102288fb5f7a93b1879d"},"username":"chums@example.com","orderdate":{"$date":"2019-11-30T06:45:54.486Z"},"details":[{"code":"100","name":"Americano","qty":1,"subtotal":150.0}]}
+{"_id":{"$oid":"5de2108505fea2cf975e1ba4"},"username":"chums@example.com","orderdate":{"$date":"2019-11-30T06:47:33.179Z"},"details":[{"code":"100","name":"Americano","qty":1231,"subtotal":184650.0}]}
+{"_id":{"$oid":"5de210a8bc29435d6a906045"},"username":"chums@example.com","orderdate":{"$date":"2019-11-30T06:48:08.415Z"},"details":[{"code":"100","name":"Americano","qty":123123,"subtotal":1.846845E+07}]}
+{"_id":{"$oid":"5de4f9ba279a7f6b120dff60"},"username":"chums@example.com","orderdate":{"$date":"2019-12-02T11:47:06.55Z"},"details":[{"code":"30000","name":"Naked Beef Gyro","qty":1,"subtotal":110.0}]}
+{"_id":{"$oid":"5de4fece5ea8aae43e1c3225"},"username":"chums@example.com","orderdate":{"$date":"2019-12-02T12:08:46.055Z"},"details":[{"code":"1000","name":"Lunch","qty":10,"subtotal":900.0},{"code":"2000","name":"Peanut Butter + Jelly","qty":1,"subtotal":80.0}]}
+{"_id":{"$oid":"5de5035f5ea8aae43e1c3226"},"username":"chums@example.com","orderdate":{"$date":"2019-12-02T12:28:15.079Z"},"details":[{"code":"400","name":"Teriyaki Karaage","qty":11,"subtotal":770.0}]}
+{"_id":{"$oid":"5de503945ea8aae43e1c3227"},"username":"chums@example.com","orderdate":{"$date":"2019-12-02T12:29:08.591Z"},"details":[{"code":"200","name":"Kani Mango Crunch","qty":1,"subtotal":100.0}]}
+{"_id":{"$oid":"5de5042ae0142a7bd3d112da"},"username":"chums@example.com","orderdate":{"$date":"2019-12-02T12:31:38.56Z"},"details":[{"code":"60000","name":"Water","qty":1,"subtotal":15.0}]}
+{"_id":{"$oid":"5de5bf53fee34a3ba321e764"},"username":"chums@example.com","orderdate":{"$date":"2019-12-03T01:50:11.821Z"},"details":[{"code":"6000","name":"Twister Fries","qty":1,"subtotal":70.0}]}
+{"_id":{"$oid":"5de5c4baad43783409587777"},"username":"chums@example.com","orderdate":{"$date":"2019-12-03T02:13:14.506Z"},"details":[{"code":"50000","name":"Greek Garlic Potatoes","qty":1,"subtotal":50.0}]}
+{"_id":{"$oid":"5de5c66ed0c645a70b46abb9"},"username":"chums@example.com","orderdate":{"$date":"2019-12-03T02:20:30.874Z"},"details":[{"code":"4000","name":"Banana Hazelnut","qty":1,"subtotal":90.0}]}
+{"_id":{"$oid":"5de5ce1dd0c645a70b46abba"},"username":"chums@example.com","orderdate":{"$date":"2019-12-03T02:53:17.801Z"},"details":[{"code":"500","name":"Umami Fries","qty":1,"subtotal":40.0}]}

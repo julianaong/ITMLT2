@@ -1,0 +1,30 @@
+<html>
+    <head>
+    <style type="text/css"> 
+    li.center {
+    margin-left:auto; 
+    margin-right:auto;}
+    </style>
+</head>
+<header>
+</header>
+<body>
+  {% include "header.html" %}
+  <center>
+  <h1 style="font-family: Don José;text-align: center;font-size: 80px; color:firebrick">Stalls</h1>
+      <img id="choices" src="static/images/choices.png" width="230" class="product-image">
+  </center>
+  <ul>
+    {% for branch in branch_list %}
+      <li class="center"> {{branch["name"]}}</a>
+        <a href="/{{branch["link"]}}">Menu</a></li>
+      {% endfor %}
+<!--
+    <li class="center"><a href="/bigfat">Big Fat Rolls</a>
+        <br><a href="/caged"> Caged Chicken</a><br><a href="/taverna"> Taverna</a></li>
+-->
+  </ul>
+
+  {% include "footer.html" %}
+</body>
+</html>

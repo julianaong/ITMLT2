@@ -1,0 +1,8 @@
+{"_id":{"$oid":"5de4e718c16e24c17dbcf9a8"},"code":100,"stallid":"Big Fat Rolls","name":"Beef Bulgogi","price":100.0}
+{"_id":{"$oid":"5de4e718c16e24c17dbcf9a9"},"code":200,"stallid":"Big Fat Rolls","name":"Kani Mango Crunch","price":100.0}
+{"_id":{"$oid":"5de4e718c16e24c17dbcf9aa"},"code":300,"stallid":"Big Fat Rolls","name":"Chicken Teriyaki","price":100.0}
+{"_id":{"$oid":"5de4e718c16e24c17dbcf9ab"},"code":400,"stallid":"Big Fat Rolls","name":"Teriyaki Karaage","price":70.0}
+{"_id":{"$oid":"5de4e718c16e24c17dbcf9ac"},"code":500,"stallid":"Big Fat Rolls","name":"Umami Fries","price":40.0}
+{"_id":{"$oid":"5de4e718c16e24c17dbcf9ad"},"code":600,"stallid":"Big Fat Rolls","name":"Karaage + Fries","price":80.0}
+{"_id":{"$oid":"5de4e71cc16e24c17dbcf9ae"},"code":700,"stallid":"Big Fat Rolls","name":"Red Ice tea","price":30.0}
+{"_id":{"$oid":"5de4e71cc16e24c17dbcf9af"},"code":800,"stallid":"Big Fat Rolls","name":"Black Gulaman","price":30.0}

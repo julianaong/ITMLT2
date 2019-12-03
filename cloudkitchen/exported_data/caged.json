@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5de4e76bc16e24c17dbcf9ba"},"code":900,"stallid":"Caged Chicken","name":"Breakfast","price":110.0}
+{"_id":{"$oid":"5de4e76bc16e24c17dbcf9bb"},"code":1000,"stallid":"Caged Chicken","name":"Lunch","price":90.0}
+{"_id":{"$oid":"5de4e76bc16e24c17dbcf9bc"},"code":2000,"stallid":"Caged Chicken","name":"Peanut Butter + Jelly","price":80.0}
+{"_id":{"$oid":"5de4e76bc16e24c17dbcf9bd"},"code":3000,"stallid":"Caged Chicken","name":"Strawberry","price":80.0}
+{"_id":{"$oid":"5de4e76fc16e24c17dbcf9be"},"code":4000,"stallid":"Caged Chicken","name":"Banana Hazelnut","price":90.0}
+{"_id":{"$oid":"5de4e76fc16e24c17dbcf9bf"},"code":5000,"stallid":"Caged Chicken","name":"Chicken Bites","price":80.0}
+{"_id":{"$oid":"5de4e76fc16e24c17dbcf9c0"},"code":6000,"stallid":"Caged Chicken","name":"Twister Fries","price":70.0}
